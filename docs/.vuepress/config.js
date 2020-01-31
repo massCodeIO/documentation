@@ -6,6 +6,9 @@ module.exports = {
   themeConfig: {
     repo: 'https://github.com/antonreshetov/massCode',
     logo: '/assets/img/logo.png',
+    nav: [
+      { text: 'Site', link: 'https://masscode.io', target:'_self', rel:''},
+    ],
     sidebar: [
       {
         title: 'Essentials',

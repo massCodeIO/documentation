@@ -5,6 +5,7 @@ module.exports = {
   base: isDev ? '/' : '/documentation/',
   themeConfig: {
     repo: 'https://github.com/antonreshetov/massCode',
+    logo: '/assets/img/logo.png',
     sidebar: [
       {
         title: 'Essentials',

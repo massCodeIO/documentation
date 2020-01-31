@@ -3,6 +3,9 @@ const isDev = process.env.NODE_ENV === 'development'
 module.exports = {
   title: 'massCode',
   base: isDev ? '/' : '/documentation/',
+  head: [
+    ['link', {rel: 'icon', href: '/favicon.png'} ]
+  ],
   themeConfig: {
     repo: 'https://github.com/antonreshetov/massCode',
     logo: '/assets/img/logo.png',

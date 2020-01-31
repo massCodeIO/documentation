@@ -4,7 +4,7 @@
 
 massCode assistant lives in the tray and gives you the ability to always have quick access to your snippets using the search. The snippet you selected will be copied to the clipboard.
 
-## Call for an assistant
+## Show Assistant
 
 Follow one of the following steps:
 

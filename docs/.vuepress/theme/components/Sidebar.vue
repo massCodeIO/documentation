@@ -1,5 +1,6 @@
 <template>
   <aside class="sidebar">
+    <CarbonAd/>
     <NavLinks/>
     <slot name="top"/>
     <SidebarLinks :depth="0" :items="items"/>
@@ -10,11 +11,16 @@
 <script>
 import SidebarLinks from '@theme/components/SidebarLinks.vue'
 import NavLinks from '@theme/components/NavLinks.vue'
+import CarbonAd from '../../components/CarbonAd.vue'
 
 export default {
   name: 'Sidebar',
 
-  components: { SidebarLinks, NavLinks },
+  components: {
+    SidebarLinks,
+    NavLinks,
+    CarbonAd
+  },
 
   props: ['items']
 }

@@ -1,6 +1,6 @@
 # Library
 
-The library located in the first column consists of system folders **"InBox "**, **"Favorites "**, **"All Snippets "**, **"Trash "**.
+The library located in the first column consists of system folders **"InBox"**, **"Favorites"**, **"All Snippets"**, **"Trash"**.
 
 ## Inbox
 

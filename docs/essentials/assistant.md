@@ -8,5 +8,5 @@ The tray assistant lives in your tray (obviously) and gives you the ability to a
 
 To use the assistant, follow the steps below:
 
-- Click on the tray icon
-- Press <kbd>Option+S</kbd>
+- Click on the tray icon.
+- Press <kbd>Option+S</kbd>.

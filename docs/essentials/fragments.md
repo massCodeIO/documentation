@@ -6,7 +6,7 @@ Fragments are different versions of one snippet. They are stored as tabs within 
 
 To create a fragment, use one of the following methods:
 
-- Click **+** button on the top right corner of the editor pane.
+- Click the **+** button on the top right corner of the editor pane.
 - Press <kbd>Cmd+T</kbd> on macOS or <kbd>Ctrl+F</kbd> on Windows or Linux.
 
 ## Renaming and Deleting Fragments

@@ -12,7 +12,7 @@ To create a folder, there are three methods, which are listed below:
 
 ## Moving Folders
 
-Drag and drop the required folder onto another folder.
+Drag and drop the required folder into another folder.
 
 ## Renaming and Deleting
 

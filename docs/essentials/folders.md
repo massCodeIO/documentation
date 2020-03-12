@@ -7,7 +7,7 @@ massCode allows you to organize your snippets into multi-level folders. When you
 To create a new folder, use one of the following methods:
 
 - Select **File** > **New Folder** from the menu bar.
-- Click **+** button opposite **FOLDERS** in the library to add a new folder.
+- Click the **+** button opposite **FOLDERS** in the library to add a new folder.
 - Press <kbd>Shift+Cmd+N</kbd> on macOS or <kbd>Shift+Ctrl+N</kbd> on Windows or Linux.
 
 ## Moving a Folder

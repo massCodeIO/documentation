@@ -1,26 +1,27 @@
 # Folders
 
-massCode allows you to organize your snippets into multi-level folders. When you select a folder in the sidebar, all snippets in that folder, as well as in all subfolders, will be displayed in the second column.
+massCode allows you to organize your snippets into multi-level folders. When you select a folder in the sidebar, all of the snippets in that folder, as well as in its subfolders, will be displayed in the second column.
 
-## Adding a Folder
+## Creating a folder
 
-To create a new folder, use one of the following methods:
+Follow one of the options below in order to create a folder:
 
 - Select **File** > **New Folder** from the menu bar.
-- Click the **+** button opposite **FOLDERS** in the library to add a new folder.
+- Click **"+"** button opposite **FOLDERS** in the library to create a new folder.
 - Press <kbd>Shift+Cmd+N</kbd> on macOS or <kbd>Shift+Ctrl+N</kbd> on Windows or Linux.
 
-## Moving a Folder
+## Moving Folders
 
-Drag and drop a folder onto another folder to relocate it.
+Drag and drop the required folder onto another folder.
 
-## Renaming and Deleting Folders
+## Renaming and Deleting
 
-Bring up the context menu by right-clicking on the folder and selecting **Rename** or **Delete**.
+Call the context menu by right-clicking on the folder and selecting **"Rename** or **"Delete"**.
 
-::: WARNING
-Deleting a folder will cause all of its contents, including snippets, fragments and subfolders within it. Deleted snippets can be recovered through the **Trash**.
+::: WARNING 
+Deleting the folder will cause all snippets in it, as well as in all sub-folders, to move to **Trash**.
+:::
 
-## Setting a Default Folder Language
+## Set the Default Folder Language
 
-Bring up the context menu by right-clicking on the folder and then select **Default Language**.
+Call the context menu by right-clicking on the folder and select **"Default Language"**.

@@ -1,6 +1,6 @@
 # massCode documentaion
 
-This is the repository in which the massCode documentation is located.
+This is the repository in which the massCode documentation is hosted.
 
 # Contribution
 

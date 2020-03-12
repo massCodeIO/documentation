@@ -8,7 +8,7 @@ To create a folder, there are three methods, which are listed below:
 
 - Select **"File"** > **"New Folder"** from the menu bar.
 - Click **"+"** button opposite **"FOLDERS"** in the library to create a new folder.
-- Press <kbd>Shift+Cmd+N</kbd> on macOS or <kbd>Shift+Ctrl+N</kbd> on Windows or Linux.
+- Press <kbd>Shift+Cmd+N</kbd> on macOS or <kbd>Shift+Ctrl+N</kbd> on Windows and Linux.
 
 ## Moving Folders
 

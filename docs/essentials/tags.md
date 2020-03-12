@@ -1,19 +1,21 @@
 # Tags
 
-Tags are another way to organize your snippets. Unlike folders, snippets can have many tags.
+Tags are another way to organize your snippets and keep productive.
 
-## Search for tagged snippets
+## Searching for Tagged Snippets
 
-Click on **"TAGS "** beside **"LIBRARY "** in the sidebar to go into tag view mode. Click on the tag that you want.
+Click on **"TAGS"** besides **"LIBRARY"** in the sidebar to go into tag view mode. Within that, select any tag you want to view snippets in.
 
-## Adding a tag
+## Adding a Tag
 
-Select the snippet in which you want to add a tag, then enter a tag name in the **"Add Tag "** field below the snippet name.
+Select the snippet to which you want to add a tag, then enter a tag name in the **"Add Tag"** field below the snippet name.
 
-> If a tag already exists, it will be displayed in the pop-up menu, you can select from it. Tags are unique and cannot be repeated.
+> If a tag already exists, it will be displayed in a pop-up menu from which you can select the tag. Tags are unique and cannot have duplicates.
 
-## Deleting Tag
+## Deleting a Tag
 
-Call the context menu by right-clicking on the tag and select **"Delete "**.
+Bring up the context menu by right-clicking on the tag and selecting **"Delete"**.
 
-> Delete the tag, delete it as well as all the snippets that used it.
+::: NOTE
+Deleting a tag does not delete any snippets in it.
+:::

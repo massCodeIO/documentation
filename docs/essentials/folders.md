@@ -18,7 +18,8 @@ Drag and drop a folder onto another folder to relocate it.
 
 Bring up the context menu by right-clicking on the folder and selecting **Rename** or **Delete**.
 
-> Deleting the folder will cause all of its contents (snippets and subfolders) to move to **InBox**.
+::: WARNING
+Deleting a folder will cause all of its contents, including snippets, fragments and subfolders within it. Deleted snippets can be recovered through the **Trash**.
 
 ## Setting a Default Folder Language
 

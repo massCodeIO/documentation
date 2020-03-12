@@ -1,3 +1,3 @@
-# Sync
+# Synchronization
 
-massCode gives you the ability to move your snipe library to the right place on your computer. And so you can select folders of synchronization services such as iCloud Drive, Google Drive or Dropbox or other similar services and get the ability to synchronize your library on other computers. 
+massCode offers the ability to move your snippet library to anywhere on your computer. Thus, you should be able to synchronize your library to other computers using a service such as Google Drive, iCloud, etc.

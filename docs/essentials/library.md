@@ -1,23 +1,23 @@
 # Library
 
-The library located in the first column consists of system folders **"InBox"**, **"Favorites"**, **"All Snippets"**, **"Trash"**.
+The library is located in the first column, and contains the **InBox**, **Favorites**, **All Snippets** and **Trash** folders.
 
 ## Inbox
 
-This folder contains all unorganized snippets.
+This folder contains all unorganized snippets (any snippets that have not been placed in a folder).
 
 ## Favorites
 
-You can add your favorite snippets to this folder for quick access.
+This folder contains all of the snippets that you have favourited, allowing for quick access.
 
 ## All Snippets
 
-This folder contains all your snippets.
+This folder contains all of your snippets, regardless of location.
 
 ## Trash
 
-This is where the snippets you delete get in. You can completely delete snippets in this folder by calling the context menu on **"Trash"** and selecting **"Empty Trash"**. 
+This is where any snippets you delete will go. You can empty the contents of it by bringing up with context menu by right clicking **"Trash"** and selecting **"Empty Trash"**. 
 
 ::: warning
-Cleaning the trash will result in the complete removal of snippets. This action cannot be undone. 
+Emptying the trash cannot be undone. Proceed with caution!
 :::

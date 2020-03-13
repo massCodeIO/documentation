@@ -1,12 +1,11 @@
 # Tray Assistant
 
-> This feature available only on macOS.
+::: NOTE
+The tray assistant is only available on MacOS.
+:::
 
-massCode assistant lives in the tray and gives you the ability to always have quick access to your snippets using the search. The snippet you selected will be copied to the clipboard.
+The tray assistant lives in your tray (obviously) and gives you the ability to access your snippets in a jiffy. The snippet you select will be copied to the clipboard.
 
-## Show Assistant
+## Using the Assistant
 
-Follow one of the following steps:
-
-- Click on the tray icon
-- Press <kbd>Option+S</kbd>
+To use the assistant, click on the tray icon or press <kbd>Option+S</kbd>.

@@ -1,18 +1,15 @@
 # Fragments
 
-Fragments can also be attributed to the way snippets are organized. You can create tabs inside a snippet, for example, to create different versions of snippets or when a snippet consists of different languages.
+Fragments are just multiple snippets stored as one. They are stored as tabs within the snippet, and can be completely different langauges or perform completely different tasks. For example, you can have two snippets in two different languages that perform similar functions, stored in one (you can use it for anything else too).
 
-## Adding Fragment
+## Creating a Fragment
 
-Follow one of the following steps:
+To create a fragment, either click the **"+"** button in the top right corner of the editor pane, or press <kbd>Cmd+T</kbd> on macOS or <kbd>Ctrl+F</kbd> on Windows and Linux.
 
-- Click **"+"** button on the top right corner of the editor.
-- Press <kbd>Cmd+T</kbd> on macOS or <kbd>Ctrl+F</kbd> on Windows or Linux.
+## Renaming and Deleting Fragments
 
-## Renaming and Deleting
+Bring up the context menu by right-clicking on the fragment and selecting **Rename** or **Delete**.
 
-Call the context menu by right-clicking on the fragment and selecting **"Rename"** or **"Delete"**.
-
-::: warning
-The deleted fragment cannot be recovered.
+::: WARNING
+A deleted fragment cannot be recovered by any means. Proceed with caution!
 :::

@@ -1,5 +1,5 @@
 # Welcome
 
-This is the official documentation for massCode a free and open source code snippets manager for developers.
+This is the official documentation for massCode, the free and open source snippet manager designed for developers.
 
-[Get started](/essentials/layout.md) →
+[Get Started →](/essentials/layout.md)

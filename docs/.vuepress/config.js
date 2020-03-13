@@ -25,7 +25,9 @@ module.exports = {
           '/essentials/fragments.md',
           '/essentials/assistant.md',
           '/essentials/search.md',
+          '/essentials/storage.md',
           '/essentials/sync.md',
+          '/essentials/backup.md',
         ]
       },
       {

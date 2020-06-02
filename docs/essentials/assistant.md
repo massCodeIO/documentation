@@ -9,4 +9,4 @@ massCode assistant lives in the tray and gives you the ability to always have qu
 Follow one of the following steps:
 
 - Click on the tray icon
-- Press <kbd>Option+S</kbd>
+- Press <kbd>Option (or Alt) S</kbd>

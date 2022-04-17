@@ -18,7 +18,7 @@ Drag and drop the required folder to another folder.
 
 Call the context menu by right-clicking on the folder and selecting **"Rename"** or **"Delete"**.
 
-> Deleting the folder will cause all snippets in it, as well as in all sub-folders, to move to **"InBox"**.
+> Deleting the folder will cause all snippets in it, as well as in all sub-folders, to move to **"Inbox"**.
 
 ## Set the Default Folder Language
 

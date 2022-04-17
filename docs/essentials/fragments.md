@@ -7,7 +7,7 @@ Fragments can also be attributed to the way snippets are organized. You can crea
 Follow one of the following steps:
 
 - Click **"+"** button on the top right corner of the editor.
-- Press <kbd>Cmd+T</kbd> on macOS or <kbd>Ctrl+F</kbd> on Windows or Linux.
+- Press <kbd>Cmd+T</kbd> on macOS or <kbd>Ctrl+T</kbd> on Windows or Linux.
 
 ## Renaming and Deleting
 

@@ -1,6 +1,6 @@
 <template>
   <aside class="sidebar">
-    <!-- <CarbonAd/> -->
+    <CarbonAd/>
     <NavLinks/>
     <slot name="top"/>
     <SidebarLinks :depth="0" :items="items"/>

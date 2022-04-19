@@ -7,12 +7,12 @@ All your snippets are on your computer locally. You can change the folder where 
 Follow these steps:
 
 - Click on the **Open storage** button.
-- Select the folder where the snippets are stored.
+- Select the folder containing the file `db.json`.
 
 ## Move
 
 - Click on the **Move storage** button.
-- Select the folder where the snippets will be stored.
+- Select the folder where the `db.json` file will be moved.
 
 ## Migrate
 

@@ -6,7 +6,7 @@ Tags are another way to organize your snippets. Unlike folders, snippets can hav
 
 Click on **"TAGS"** beside **"LIBRARY"** in the sidebar to go into tag view mode. Click on the tag that you want.
 
-## Adding a tag
+## Adding a Tag
 
 Select the snippet in which you want to add a tag, then enter a tag name in the **"Add Tag"** field below the snippet name.
 

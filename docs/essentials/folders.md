@@ -2,7 +2,7 @@
 
 massCode allows you to organize your snippets into multi-level folders. When you select a sidebar folder, all snippets in that folder, as well as in all subfolders, will be displayed in the second column.
 
-## Adding a folder
+## Adding a Folder
 
 Follow one of the following steps:
 
@@ -10,7 +10,7 @@ Follow one of the following steps:
 - Click **"+"** button opposite **"FOLDERS"** in the library to add a new folder.
 - Press <kbd>Shift+Cmd+N</kbd> on macOS or <kbd>Shift+Ctrl+N</kbd> on Windows or Linux.
 
-## Moving to folder
+## Moving to Folder
 
 Drag and drop the required folder to another folder.
 

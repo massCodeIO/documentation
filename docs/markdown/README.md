@@ -10,7 +10,7 @@ Follow one of the following steps:
 
 ## Mermaid Diagrams
 
-massCode 2.7.0 and above supports Mermaid, which is a way to create various diagrams and visualizations with code.
+massCode v2.7 and above supports Mermaid, which is a way to create various diagrams and visualizations with code.
 
 > To learn more about the syntax, please refer to [Mermaid documentations](https://mermaid-js.github.io/mermaid/#/?id=diagram-types).
 
@@ -27,6 +27,6 @@ C -->|Two| E[Result 2]
 ```
 ````
 
-![alt](/assets/img/mermaid-demo.png)
+<img :src="$withBase('/assets/img/mermaid-demo.png')"></img>
 
 

@@ -26,4 +26,6 @@ Before you migrate, you must export the snippets library from SnippetsLab. Selec
 
 To migrate from SnippetsLab select JSON file.
 
-> Some Limitations. During migration from SnippetsLab, snippets with unsupported languages will be set to default Plain Text. Also since JSON file does not represent nesting for folders, all folders will be first level.
+> Some Limitations:
+> - All folders will be first level as JSON file (below v2.1) does not represent nested folders.
+> - Snippets with unsupported languages will be set to default Plain Text.

@@ -8,6 +8,21 @@ Follow one of the following steps:
 - Select **"Editor"** > **"Preview Markdown"** from the menu bar.
 - Click **"<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-eye"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path><circle cx="12" cy="12" r="3"></circle></svg>"** button on the top right corner of the editor
 
+## Image Embedding
+
+massCode v3.1 and above supports embedding images.
+
+Follow one of the following steps:
+
+- Copy the image file on your computer and paste it directly into the editor
+- Specify the path to the image `![]('./assets/path-to-image.png')`
+
+::: warning
+When manually inserting an image, the image must first be copied to the `/assets` folder where the [storage](/essentials/storage) is located.
+
+
+:::
+
 ## Mermaid Diagrams
 
 massCode v2.7 and above supports Mermaid, which is a way to create various diagrams and visualizations with code.

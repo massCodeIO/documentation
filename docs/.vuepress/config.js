@@ -11,6 +11,7 @@ module.exports = {
     logo: '/assets/img/logo.png',
     nav: [
       { text: 'Site', link: 'https://masscode.io', target:'_self', rel:''},
+      { text: 'Snippet Collection', link: 'https://masscode.io/snippets', target:'_self', rel:''},
     ],
     sidebar: [
       {

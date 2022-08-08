@@ -18,7 +18,7 @@ Follow one of the following steps:
 - Specify the path to the image `![]('./assets/path-to-image.png')`
 
 ::: warning
-When manually inserting an image, the image must first be copied to the `/assets` folder where the [storage](/essentials/storage) is located.
+When manually inserting an image, the image must first be copied to the `/assets` folder where the [storage](/essentials/storage.html) is located.
 
 
 :::
